@@ -1,5 +1,5 @@
 import React from 'react';
-import HelloSheikhu from './file';
+import HelloSheikhu from './HelloSheikhu';
 
 function App() {
   return (
